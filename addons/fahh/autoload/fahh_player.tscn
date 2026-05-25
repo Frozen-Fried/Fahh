@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://d35hmom5hlsp7"]
+
+[ext_resource type="Script" uid="uid://ctjspf2eomllq" path="res://addons/fahh/autoload/fahh_player.gd" id="1_kiepw"]
+[ext_resource type="AudioStream" uid="uid://dpe8uixdac674" path="res://addons/fahh/sounds/fahh/fahh_small.mp3" id="2_3hm0k"]
+
+[node name="fahh_player" type="Node" unique_id=1866025643]
+script = ExtResource("1_kiepw")
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="." unique_id=1890612018]
+stream = ExtResource("2_3hm0k")

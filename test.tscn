@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://5im8byep06ns"]
+
+[ext_resource type="Script" uid="uid://dnd6vxnlin6yb" path="res://test.gd" id="1_37kl0"]
+
+[node name="test" type="Node" unique_id=1139971688]
+script = ExtResource("1_37kl0")
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="." unique_id=407766781]
