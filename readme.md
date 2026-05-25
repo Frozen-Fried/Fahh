@@ -13,7 +13,7 @@ I'm not a pro at plugin development, so I don't really know how to add an autolo
 
 Thanks for trying it and feel free to play with it!
 
-Note
+###Note
 It's Windows-only for now, but there is a small section in `plugin.gd` where you can add your own custom code. I believe the plugin is cross-platform. It's a little bit messy right now, as I just wrote the whole main thing in `plugin.gd`.
 
 ###Warning
