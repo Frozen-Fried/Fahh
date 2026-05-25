@@ -1,4 +1,4 @@
-![License](https://img.shields.io/badge/License-MIT-green)
+![License](https://img.shields.io/badge/License-MIT-green) 
 # Fahh
 
 Little plugin that plays funny sounds.
